@@ -1,0 +1,70 @@
+body {
+    background-color: purple;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.mainbox {
+    width: 700px;
+    margin: auto;
+    background-color: white;
+    border: 3px solid black;
+    padding: 30px;
+    text-align: left;
+}
+
+table {
+    border: 3px solid;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th,
+td {
+    border: 1px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+.centertext {
+    text-align: center;
+}
+
+.righttext {
+    text-align: right;
+}
+
+.topleft {
+    border-right: none;
+    border-bottom: none;
+}
+
+.topright {
+    border-left: none;
+    border-bottom: none;
+}
+
+.middleleft {
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+.middleright {
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+.bottomleft {
+    border-top: none;
+    border-right: none;
+}
+
+.bottomright {
+    border-top: none;
+    border-left: none;
+}
+
+.blackbg {
+    background-color: black;
+}
