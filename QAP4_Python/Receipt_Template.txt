@@ -1,0 +1,70 @@
+Inputs:
+    Name:
+        First Name
+        Last Name
+    Address:
+        Street Address
+        City
+        Province
+        Postal Code
+    Phone Number
+    # Cars Insured
+    Extra Liability Yes/No
+    Glass Coverage Yes/No
+    Loaner Car Yes/No
+    Payment Option Full/Monthly/Down Payment
+    Opt: Down Payment Amount
+
+Calculations:
+    Premiums
+    Total Extra Costs
+    Total Insurance Premium
+    HST
+    Total Cost
+    Monthly Dues
+
+Other:
+    Policy Number
+    Invoice Date
+    First Payment Date
+
+------------------------------------------------
+
+         1         2         3         4              
+123456789012345678901234567890123456789012345678
+
+---------------One Stop Insurance---------------
+Name:                     X.XXXXXXXXXXXXXXXXXXXX
+
+Address:                  XXXXXXXXXXXXXXXXXXXXXX
+                                   XXXXXXXXXXXXX
+                                   
+Phone:                            (###) ###-####
+------------------------------------------------
+Cars Insured:                                 ##
+Extra Liability:                             XXX
+Glass Coverage:                              XXX
+Loaner Car:                                  XXX
+------------------------------------------------
+Payment Option:                     XXXXXXXXXXXX
+Down Payment:                         $##,###.##
+------------------------------------------------
+Basic Premium:                        $##,###.##
+Additional Cars:                      $##,###.##
+                                      ----------
+Total Insurance Premiums:             $##,###.##
+Extra Costs:                          $##,###.##
+                                      ----------
+Subtotal:                             $##,###.##
+Tax (HST):                            $##,###.##
+                                      ----------
+Total:                                $##,###.##
+------------------------------------------------
+Monthly Payment:                      $##,###.##
+Payment Due:                          YYYY-MM-DD
+================================================
+Issued:                               YYYY-MM-DD
+Policy Num:                                 ####
+================================================
+
+1234567----------------------------------aaaaaaa
